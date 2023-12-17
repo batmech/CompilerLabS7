@@ -1,0 +1,12 @@
+LineNo	Lexeme	Token
+0	void	Keyword
+0	main	Identifier
+1	int	Keyword
+1	a	Identifier
+1	b	Identifier
+2	a	Identifier
+2	=	Relational Operator
+2	5	Identifier
+3	printf	Keyword
+3	d	Identifier
+3	b	Identifier

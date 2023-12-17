@@ -1,0 +1,5 @@
+Three Address
+t1 = tb ^ tc
+t2 = ta ^ t1
+t3 = td * tf
+t4 = t2 * t3

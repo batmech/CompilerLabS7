@@ -1,0 +1,6 @@
+Quadruple
+OP	O1	O2	RES
+^	tb	tc	t1
+^	ta	t1	t2
+*	td	tf	t3
+*	t2	t3	t4
